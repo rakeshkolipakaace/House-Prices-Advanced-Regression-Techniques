@@ -1,5 +1,5 @@
 # 🏠 HOUSE PRICES - ADVANCED REGRESSION TECHNIQUES 🏠 
- 
+     
 <div align="center">    
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF?style=for-the-badge&logo=kaggle) 
@@ -10,7 +10,7 @@
 ### ⚡ **TOP 2.3% - WE CONQUERED THE GET STARTED CHALLENGE!** ⚡
 
 > *"Starting strong with TOP 2.3% in our first 'Get Started' competition!"*
-
+  
 **11 Submissions | 24 Days | ONE MISSION: DOMINATE**
 
 </div>
